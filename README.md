@@ -7,3 +7,6 @@
 Unity 2020.1.11f1
 
 ## Screenshots
+
+![A screenshot of the game showing the drone launch computer interface](./Admin/Screenshots/Launch Computer.png)
+![A screenshot of the game showing an overview of the spaceship cockpit](./Admin/Screenshots/Overview.png)
